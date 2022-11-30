@@ -34,12 +34,12 @@ caption {
     text-align: center;
     margin-left: 200px;
     margin-right: 200px;
-
 }
 
 .center {
   margin-left: auto;
   margin-right: auto;
+  
 }
 
 .right {
@@ -80,6 +80,7 @@ caption {
   th,
   td {
     padding: 20px;
+    
   }
 
 .MP04 {
@@ -105,11 +106,13 @@ caption {
   background-color: rgb(95, 77, 175);
 }
 
-.img {
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-  margin-right: 200px;
+
+img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .zebra {
